@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import PreLoader from './components/preLoader/PreLoader';
+import { useEffect } from 'react';
+import { useState } from 'react';
+import {router} from './components/routes/router';
+import { RouterProvider } from 'react-router-dom';
 
 function App() {
+  
+  const [loader, setLoader] = useState(true);
+
+  useEffect(()=>{
+
+    setTimeout(() => {
+      setLoader(false);
+    }, 4000);
+
+  },[]);
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>  
+      {
+        loader ? <PreLoader /> :
+        <RouterProvider router={router} />
+      }
+    </>
   );
 }
 
