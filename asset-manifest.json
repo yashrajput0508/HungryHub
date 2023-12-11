@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yashrajput0508.github.io/HungryHub/static/css/main.e6b4efc7.css",
+    "main.js": "/yashrajput0508.github.io/HungryHub/static/js/main.5cd5fb07.js",
+    "static/js/787.050e3c72.chunk.js": "/yashrajput0508.github.io/HungryHub/static/js/787.050e3c72.chunk.js",
+    "static/media/pizza.jpg": "/yashrajput0508.github.io/HungryHub/static/media/pizza.d1ad61134d97f006ac38.jpg",
+    "static/media/pizza69.jpg": "/yashrajput0508.github.io/HungryHub/static/media/pizza69.f61b55b7f1f5c6a2edf2.jpg",
+    "static/media/pavbhaji.jpg": "/yashrajput0508.github.io/HungryHub/static/media/pavbhaji.e4fc68020a63fd0e92cb.jpg",
+    "static/media/cholebhature.jpg": "/yashrajput0508.github.io/HungryHub/static/media/cholebhature.6b893e9253dab9cc02f8.jpg",
+    "static/media/fastfood.jpg": "/yashrajput0508.github.io/HungryHub/static/media/fastfood.7787881e743b68b6ded8.jpg",
+    "static/media/cake.jpg": "/yashrajput0508.github.io/HungryHub/static/media/cake.bfc2eaf11bada375a855.jpg",
+    "static/media/capresesalad.jpg": "/yashrajput0508.github.io/HungryHub/static/media/capresesalad.d12bac0c5018505113d5.jpg",
+    "index.html": "/yashrajput0508.github.io/HungryHub/index.html",
+    "main.e6b4efc7.css.map": "/yashrajput0508.github.io/HungryHub/static/css/main.e6b4efc7.css.map",
+    "main.5cd5fb07.js.map": "/yashrajput0508.github.io/HungryHub/static/js/main.5cd5fb07.js.map",
+    "787.050e3c72.chunk.js.map": "/yashrajput0508.github.io/HungryHub/static/js/787.050e3c72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b4efc7.css",
+    "static/js/main.5cd5fb07.js"
+  ]
+}
